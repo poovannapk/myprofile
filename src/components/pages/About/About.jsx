@@ -17,13 +17,13 @@ const About = () => {
               as a part of the team, good organization.
             </p>
             <p className="text-sm text-gray-400 leading-6 mb-3">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab minima
+              {/* Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab minima
               amet accusantium provident, dignissimos corporis reprehenderit
               numquam nobis ex dolore? Maxime veritatis aliquam amet inventore
               recusandae nulla incidunt tenetur repellat voluptatibus molestias
               quas deleniti quia vel officia veniam expedita exercitationem
               modi, maiores saepe ut dolorum. Voluptas optio laudantium pariatur
-              aperiam!
+              aperiam! */}
             </p>
           </div>
           <Skills />
